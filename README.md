@@ -1,7 +1,4 @@
-# PA1: LISTS
-Diwa Ashwini Vittala    
-dashwini
-
+# LISTS [CSE 101]
 ## Assignment details
 The program Lex.c takes in a text file and rearrages the lines in lexicographic ordering.
 
